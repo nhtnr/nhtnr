@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@3ee6f519-f755-46c3-9aca-07f85bc61ee6/809e7ed9-aa47-4d37-a648-a410901402ab.svg"></embed></figure>
 <!--
 **nhtnr/nhtnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
