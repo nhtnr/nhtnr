@@ -1,4 +1,4 @@
-
+![Wakatime stats](https://raw.githubusercontent.com/nhtnr/nhtnr/master/images/wakatime_weekly_language_stats.svg "Wakatime stats")
 <!--
 **nhtnr/nhtnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
