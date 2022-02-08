@@ -1,5 +1,4 @@
-.. image:: https://wakatime.com/share/@3ee6f519-f755-46c3-9aca-07f85bc61ee6/add97204-1e50-413a-8dc5-63fb60065714.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3ee6f519-f755-46c3-9aca-07f85bc61ee6/add97204-1e50-413a-8dc5-63fb60065714.png" /></a>
 <!--
 **nhtnr/nhtnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
